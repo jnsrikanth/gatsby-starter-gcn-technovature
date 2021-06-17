@@ -6175,10 +6175,10 @@ gatsby-plugin-react-helmet@^3.1.22:
   dependencies:
     "@babel/runtime" "^7.7.6"
 
-gatsby-plugin-schema-snapshot@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-schema-snapshot/-/gatsby-plugin-schema-snapshot-1.0.0.tgz#78e6c9b23c55028237251b7daec94fe834b656c4"
-  integrity sha512-Gf/otsntsTPVl/bG2mK/Y2yuYufhm9PFvmV8yMia2KckrFs1jjofPugYUjpBIGm9RDrtYeLCcZhw057GbQrbeA==
+gatsby-plugin-schema-snapshot@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-schema-snapshot/-/gatsby-plugin-schema-snapshot-1.7.0.tgz#714decd47902ea77da0312e0d4094a7c4c0e63a9"
+  integrity sha512-rOfr1J3FlgO7MEmNQYTbQcaQuNOmg3oDfquIJdHw2IFVRVryN+nR885RSGH8DYQVXriDBKyWKSWQBKb1Bvl7XA==
 
 gatsby-plugin-sharp@^2.4.5:
   version "2.4.5"
